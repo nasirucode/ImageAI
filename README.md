@@ -284,7 +284,7 @@ Click the link below to see the guide to sample training codes, explanations, an
 
 
 
-### Documentation
+## Documentation
 <div id="documentation"></div>
 
 We have provided full documentation for all **ImageAI** classes and functions in 2 major languages. Find links below:
